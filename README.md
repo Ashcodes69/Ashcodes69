@@ -44,7 +44,7 @@ Here’s a collection of my deployed projects (will keep updating as I build mor
 
 | Project Name           | Live Link                                 | Tech Stack                      |
 |------------------------|--------------------------------------------|----------------------------------|
-| Wibrit E-Commerce Store| [Live Demo](https://wibrit.vercel.app)     | Next.js, Tailwind, MongoDB       |
+| Wibrit E-Commerce Store| [Live Demo](https://wibrit-an-e-commerce-store.vercel.app/)     | Next.js, Tailwind, MongoDB       |
 
 
 > 📝 Want to see more? Check my [Repositories](https://github.com/Ashcodes69?tab=repositories)

@@ -48,7 +48,8 @@ Here’s a collection of my deployed projects (will keep updating as I build mor
 |------------------------|--------------------------------------------|----------------------------------|
 | Wibrit E-Commerce Store| [Live Demo](https://wibrit-an-e-commerce-store.vercel.app/)     | Next.js, Tailwind, MongoDB,typescript       |
 | SwiftFix| [Live Demo](https://swift-fix-one.vercel.app/)     | Next.js, Tailwind, typescript      |
-
+| guess the number| [Live Demo](https://note-nest-beta.vercel.app/)     |Html Css Javascript      |
+| password generators | [Live Demo](https://password-generator-coral-one.vercel.app/)     |Html Css Javascript      |
 > 📝 Want to see more? Check my [Repositories](https://github.com/Ashcodes69?tab=repositories)
 
 ---

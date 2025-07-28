@@ -60,7 +60,7 @@ Here’s a collection of my deployed projects (will keep updating as I build mor
 ### 📫 Let's Connect
 
 - 📧 [Email Me](mailto:ns730106.com)
-- 📸 [Instagram](https://www.instagram.com/your_ig_aashu0p)
+- 📸 [Instagram](https://www.instagram.com/ig_aashu0p)
 - 💬 DM on GitHub or check out my pinned repos!
 ---
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm [Ashish kumar]</h1>
+<h1 align="center">Hey there! 👋 I'm Ashish kumar</h1>
 <p align="center">🚀 Full-Stack Developer | Passionate Coder | Lifelong Learner</p>
 
 ---
